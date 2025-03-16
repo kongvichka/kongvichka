@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kong Vichka
-- 👀 I’m Network Engineer but interested in Front-End developer as well.
-- 🌱 I’m currently learning HTML5,CSS3,JavaScript
+- 👀 I’m a Network Engineer, Software Developer, and Content Creator.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on: Linkedin: @kongvichka , Twitter: @kongvichka , GitHub: @kongvichka , Email: iam@kongvichka.com
 
